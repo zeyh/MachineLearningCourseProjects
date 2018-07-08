@@ -1,6 +1,5 @@
 '''
-Zeyang Huang
-CSC420 - final project
+Zeyang
 Due May 12, 2018
 
 part - 2
