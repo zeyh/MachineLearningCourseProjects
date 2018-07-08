@@ -1,7 +1,4 @@
 '''
-CSC420 - Project 2
-Zeyang Huang
-Lab Partner: Rao Fu
 '''
 '''
 select 100 pages randomly
