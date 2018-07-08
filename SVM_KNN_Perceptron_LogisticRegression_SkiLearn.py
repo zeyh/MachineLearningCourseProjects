@@ -1,8 +1,4 @@
 '''
-Project 3 - Due May 8, 2018, submitted on May 9 
-CSC420
-Zeyang Huang
-Lab Partner: Rachel Fu, Ashley Hayes
 '''
 '''
 test train split, scale the data
