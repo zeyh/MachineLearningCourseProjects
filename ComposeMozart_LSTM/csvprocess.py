@@ -1,5 +1,4 @@
 '''
-Zeyang 
 Due May 12, 2018
 
 part - 1
